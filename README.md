@@ -17,7 +17,7 @@ at the end the report should show something is this following format,
 -------------------------------------------------------- 
 
 The Category is: "WAR MOVIE LOCATIONS" of value "$400" 
-The Question is: "The literary adaptation For Whom The Bell Tolls" 
+The Question is: "For Whom The Bell Tolls" 
 Answer: "Spain"
  
 -------------------------------------------------------- 
