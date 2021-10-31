@@ -11,7 +11,7 @@ I found a cool data set from reddit, [here](https://www.reddit.com/r/datasets/co
 Clone this repository, once you have all the neccesary files, run makefile which will have the neccesary awk sript and the csv datatsheet. Makefile will automate the report.
 
 # Report:
-at the end the report should show something like this,
+at the end the report should show something is this following format,
 ```
 -------------------------------------------------------- 
 
