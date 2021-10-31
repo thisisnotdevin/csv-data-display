@@ -7,4 +7,5 @@ I found a cool data set from reddit, https://www.reddit.com/r/datasets/comments/
 2. Retrieve only the question, value, category, and answer from the datasheet, which makes it a much more simpler report.
 3. At last, we will be using makefile to generate this awk report.
 
-
+# Instructions:
+Clone this repository, once you have all the neccesary files, run makefile which will have the neccesary awk sript and the csv datatsheet. Makefile will automate the report.
