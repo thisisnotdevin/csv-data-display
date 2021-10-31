@@ -9,6 +9,7 @@ I found a cool data set from reddit, [here](https://www.reddit.com/r/datasets/co
 
 # Instructions:
 Clone this repository, once you have all the neccesary files, run makefile which will have the neccesary awk sript and the csv datatsheet. Makefile will automate the report.
+For guidance on Make it can be found in [here](https://www.gnu.org/software/make/manual/) it also contains different formats.
 
 # Report:
 at the end the report should show something is this following format,
