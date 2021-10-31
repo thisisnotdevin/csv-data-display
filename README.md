@@ -12,11 +12,11 @@ Clone this repository, once you have all the neccesary files, run makefile which
 
 # Report:
 at the end the report should show something like this,
-``-------------------------------------------------------- 
+-------------------------------------------------------- 
 
-The Category is: "WAR MOVIE LOCATIONS" of value "$400" 
+```The Category is: "WAR MOVIE LOCATIONS" of value "$400" 
 The Question is: "The literary adaptation For Whom The Bell Tolls" 
 Answer: "Spain"
- 
+``` 
 -------------------------------------------------------- 
-``
+
