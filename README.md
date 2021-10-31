@@ -3,7 +3,7 @@ Lab 3 project, using awk and makefile to produce a data representation using csv
 I found a cool data set from reddit, [here](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
 
 # Objectives: 
-1. Build a basic data analysis script using awk, it will be using csv data sets to retrieve information.
+1. Build a basic data analysis script using `awk`, it will be using csv data sets to retrieve information.
 2. Retrieve only the question, value, category, and answer from the datasheet, which makes it a much more simpler report.
 3. At last, we will be using makefile to generate this awk report.
 
